@@ -1,0 +1,11 @@
+__pycache__/
+.idea/
+**/training_results/
+**/evaluation_results/
+**/comparison_results/
+**/agent_logs/
+.vscode
+venv_grid2op/
+**/.DS_Store
+**.csv
+**scalability.txt
