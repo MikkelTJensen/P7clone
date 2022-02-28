@@ -1,4 +1,6 @@
-# P7-Code
+## 7th Semester Code Clone
+
+## P7-Code
 
 This is the code submitted by cs-21-dat-7-03 for the 7th semester on Computer Science at Aalborg University.
 A paper was written and submitted for the scalability results of the developed DQNPER agents.
